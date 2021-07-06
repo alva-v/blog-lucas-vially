@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Overwatch - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/overwatch.html">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/overwatch.shtml">
   <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/overwatch-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review d'Overwatch'">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
     <h1>Overwatch</h1>
   </header>
   <main>
@@ -133,7 +133,7 @@
       qui est de mon histoire avec Overwatch, peut-être qu’il n’y en a pas, de problème bizarre. En tout cas, j’ai écrit
       cet article en alternant avec des parties rapides, et je dois dire que ça m’a plu.</p>
 
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
   <footer lang="en">

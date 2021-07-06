@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Crossy Road (Logicom Le Posh 178) - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/wibble-wobble.html">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/wibble-wobble.shtml">
   <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/crossy-road-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de Crossy Road sur Logicom Le Posh 178">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
     <h1>Crossy Road (Logicom Le Posh 178)</h1>
   </header>
   <main>
@@ -80,7 +80,7 @@
       Autant dire que je n’ai pas sorti le porte-monnaie pour acquérir cette version de Crossy Road. Mais j’en tire
       quand même une leçon : deux interprétations du même gameplay peuvent aussi bien mener à une expérience correcte
       que catastrophique.</p>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
   <footer lang="en">

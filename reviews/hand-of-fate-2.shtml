@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Hand of Fate 2 - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/hand-of-fate-2.html">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/hand-of-fate-2.shtml">
   <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/hand-of-fate-2-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de Hand of Fate 2">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
     <h1>Hand of Fate 2</h1>
   </header>
   <main>
@@ -102,7 +102,7 @@
       Après avoir fini l’aventure, il me reste le désir de voir ce que le jeu me cache encore, finir les quêtes que je
       n’ai pas encore découvertes, m’essayer aux DLCs ou au premier épisode de la saga. Malheureusement, pas de Hand of
       Fate 3 pour moi. Malgré sa créativité, Defiant, le studio à l’origine du jeu, a fermé ses portes en 2019.</p>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
   <footer lang="en">

@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="GoNNER - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/gonner.html">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/gonner.shtml">
   <meta property="og:image" content="gonner-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de GoNNER">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
     <h1>GoNNER</h1>
   </header>
   <main>
@@ -85,7 +85,7 @@
       donc impossible de jouer à l’expérience originale, bien plus équilibrée et agréable. Le GoNNER original, celui
       dont on m'avait vanté le style graphique unique, la musique étrange, le gameplay hyperactif, n’existe plus.
       Parfois, il vaut mieux jouer à un jeu à sa sortie, avant qu’il ne se sabote lui-même.</p>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
   <footer lang="en">

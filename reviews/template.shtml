@@ -30,13 +30,13 @@
 
 <body>
   <header>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
     <h1>Titre</h1>
   </header>
   <main>
     <img src="relative url" alt="Image description"> <!--Image de 580px de large-->
     <p>paragraphe</p>
-    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
   <footer lang="en">
