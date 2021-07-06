@@ -28,7 +28,7 @@
 </head>
 
 <body>
-  <main class="home">
+  <main id="home">
     <h1>lucas vially</h1>
     <!--About section-->
     <p>J'utilise actuellement ce blog pour partager des reviews de jeux vidéo, en français.</p>
@@ -37,7 +37,6 @@
 
     <!--Links to reviews-->
     <h2>Reviews</h2>
-    <nav>
       <ul>
         <li><a href="reviews/overwatch.shtml">Overwatch</a></li>
         <li><a href="reviews/legends-of-runeterra.shtml">Legends of Runeterra</a></li>
@@ -48,7 +47,6 @@
         <li><a href="reviews/quadrilateral-cowboy.shtml">Quadrilateral Cowboy</a></li>
         <li><a href="reviews/orwell.shtml">Orwell</a></li>
       </ul>
-    </nav>
   </main>
 
    <!--#include virtual="includes/footer.ssi" --> 

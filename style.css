@@ -109,18 +109,18 @@ main img {
 
 /* || Homepage differences */
 
-main.home p {
+main#home p {
   text-indent: 0px;
 }
 
-main.home h2 {
+main#home h2 {
   text-transform: uppercase;
 }
 
-main.home h2::before {
+main#home h2::before {
   content: "• "
 }
 
-main.home h2::after {
+main#home h2::after {
   content: " •";
 }
