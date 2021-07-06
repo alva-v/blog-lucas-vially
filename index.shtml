@@ -30,7 +30,6 @@
 <body>
   <main class="home">
     <h1>lucas vially</h1>
-    <!--#echo var="DATE_LOCAL"-->    
     <!--About section-->
     <p>J'utilise actuellement ce blog pour partager des reviews de jeux vidéo, en français.</p>
     <p>Je compte prochainement y ajouter un portfolio et une liste complète des mes travaux, en français et anglais.
