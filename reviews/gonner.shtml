@@ -88,11 +88,7 @@
     <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
   </main>
 
-  <footer lang="en">
-    <p>Open-source, feel free to use any content created by myself.
-      If you have any issue or suggestion you can contact me at <a href="https://twitter.com/LucasVially"
-        title="Lucas Vially's Twitter">@LucasVially</a> on Twitter
-  </footer>
+  <!--#include virtual="../includes/footer.ssi" --> 
 </body>
 
 </html>
