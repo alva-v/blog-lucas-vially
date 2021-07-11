@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Legends of Runeterra - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/legends-of-runeterra.shtml">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/legends-of-runeterra.html">
   <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/legends-of-runeterra-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de Legends of Runeterra">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
     <h1>Legends of Runeterra</h1>
   </header>
   <main>
@@ -98,7 +98,7 @@
 
     <a href="https://playruneterra.com/">Télécharger Legends of Runeterra</a> <br><br>
 
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
   </main>
 
   <!--#include virtual="../includes/footer.ssi" --> 

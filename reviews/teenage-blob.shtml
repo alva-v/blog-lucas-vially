@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Teenage Blob - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/teenage-blob.shtml">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/teenage-blob.html">
   <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/teenage-blob-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de Teenage Blob">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
     <h1>Teenage Blob</h1>
   </header>
   <main>
@@ -49,7 +49,7 @@ Je suis certain que le projet a demandé beaucoup de travail, mais ces mini-jeux
 J’ai un problème avec les produits dérivés. Pourquoi travailler sur des objets inutiles qui ne seront que l’objet d’achats compulsifs ? Pourquoi proposer tous ces designs de t-shirt différents quand tant de vêtements sont déjà fabriqués tous les jours, que les dressings et les friperies débordent déjà ? Je comprends le plaisir qu’il y a à voir son jeu vidéo être interprété sous d’autres formes, se manifester dans le monde réel. Mais dans un monde aux ressources finies, où les questions d’économies devraient s’imposer depuis plusieurs décennies, pourquoi ne pas y réfléchir à deux fois ? Pourquoi un jeu dont une bonne partie de l’identité est héritée de contre-cultures se soumet ainsi à une logique capitaliste et consumériste ?</p>
 
 <p>Ce n’est finalement pas si surprenant venant d’un jeu où notre personnage va principalement gagner de l’argent dans un job qu’iel déteste, afin de le dépenser immédiatement dans une paire de bottes ou un autre gadget. Malheureusement, ce n’est pas récemment que les cultures alternatives punks et indés ont étés récupérées et corrompu par « la société », pour la qualifier grossièrement. C’est juste dommage de voir ce défaut s’ajouter aux autres problèmes d’une œuvre intéressante et originale, mais négligée.</p>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
   </main>
 
   <!--#include virtual="../includes/footer.ssi" -->

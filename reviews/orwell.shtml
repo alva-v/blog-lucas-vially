@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
     <h1>Orwell</h1>
   </header>
   <main>
@@ -66,7 +66,7 @@
       que vous êtes du genre à préparer des manifestations sauvages sur Facebook, alors Orwell peut avoir un rôle éducatif
       efficace et même être plutôt prenant. Sinon, vous pouvez faire l’impasse. La vie est trop courte pour la passer sur
       des jeux médiocres.</p>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
   </main>
 
   <!--#include virtual="../includes/footer.ssi" -->

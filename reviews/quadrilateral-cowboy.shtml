@@ -19,7 +19,7 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Quadrilateral Cowboy - Lucas Vially">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/quadrilateral-cowboy.shtml">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/quadrilateral-cowboy.html">
   <meta property="og:image" content="quadrilateral-cowboy-580w.png">
   <!--to change-->
   <meta property="og:description" content="Une review de Quadrilateral Cowboy">
@@ -30,7 +30,7 @@
 
 <body>
   <header>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
     <h1>Quadrilateral Cowboy</h1>
   </header>
   <main>
@@ -95,7 +95,7 @@
       nous permet d’incarner les deux simultanément, le tout emballé dans un univers original. Ses niveaux courts qui
       pardonnent les erreurs peuvent donner une impression de simplicité, mais le support de mods et l’invitation au
       speedrun rallongent et complexifient l’aventure pour ceux qui le désirent.</p>
-    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <a class="back" href="../index.html" title="Page d'accueil">lucas vially</a>
   </main>
 
   <!--#include virtual="../includes/footer.ssi" -->

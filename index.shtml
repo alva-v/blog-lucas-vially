@@ -38,15 +38,15 @@
     <!--Links to reviews-->
     <h2>Reviews</h2>
       <ul>
-        <li><a href="reviews/teenage-blob.shtml">Teenage Blob</a></li>
-        <li><a href="reviews/overwatch.shtml">Overwatch</a></li>
-        <li><a href="reviews/legends-of-runeterra.shtml">Legends of Runeterra</a></li>
-        <li><a href="reviews/hand-of-fate-2.shtml">Hand of Fate 2</a></li>
-        <li><a href="reviews/crossy-road.shtml">Crossy Road (Logicom Le Posh 178)</a></li>
-        <li><a href="reviews/wibble-wobble.shtml">Wibble Wobble</a></li>
-        <li><a href="reviews/gonner.shtml">GoNNER</a></li>
-        <li><a href="reviews/quadrilateral-cowboy.shtml">Quadrilateral Cowboy</a></li>
-        <li><a href="reviews/orwell.shtml">Orwell</a></li>
+        <li><a href="reviews/teenage-blob.html">Teenage Blob</a></li>
+        <li><a href="reviews/overwatch.html">Overwatch</a></li>
+        <li><a href="reviews/legends-of-runeterra.html">Legends of Runeterra</a></li>
+        <li><a href="reviews/hand-of-fate-2.html">Hand of Fate 2</a></li>
+        <li><a href="reviews/crossy-road.html">Crossy Road (Logicom Le Posh 178)</a></li>
+        <li><a href="reviews/wibble-wobble.html">Wibble Wobble</a></li>
+        <li><a href="reviews/gonner.html">GoNNER</a></li>
+        <li><a href="reviews/quadrilateral-cowboy.html">Quadrilateral Cowboy</a></li>
+        <li><a href="reviews/orwell.html">Orwell</a></li>
       </ul>
   </main>
 
