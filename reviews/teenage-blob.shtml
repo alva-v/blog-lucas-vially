@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <!-- || Meta -->
+  <meta charset="utf-8">
+  <title>teenage blob - lucas vially</title>
+  <meta name="viewport" content="width=device-width">
+  <link rel="icon" type="image/gif" href="https://cybergnose.cafe/favicon.gif">
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@LucasVially">
+  <meta name="twitter:title" content="Teenage Blob - Lucas Vially">
+  <meta name="twitter:description" content="Une review de Teenage Blob">
+  <meta name="twitter:creator" content="@LucasVially">
+  <meta name="twitter:image" content="https://www.lucas.cybergnose.cafe/reviews/teenage-blob-580w.png">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="Teenage Blob - Lucas Vially">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://lucas.cybergnose.cafe/reviews/teenage-blob.shtml">
+  <meta property="og:image" content="https://www.lucas.cybergnose.cafe/reviews/teenage-blob-580w.png">
+  <!--to change-->
+  <meta property="og:description" content="Une review de Teenage Blob">
+
+  <!-- || Style -->
+  <link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <header>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+    <h1>Teenage Blob</h1>
+  </header>
+  <main>
+    <img src="teenage-blob-580w.png" alt="Une capture d'écran du jeu vidéo Teenage Blob."> <!--Image de 580px de large-->
+    <p>Teenage Blob m’a plu. Il a plusieurs qualités auxquelles je suis sensible : il est court, il tente quelque chose d’original, il est drôle… Alors pourquoi plus j’y repense, plus la contrariété remplace la joie ?</p>
+
+<p>Ce n’est pas vraiment un jeu que Teenage Blob propose. Il est présenté comme un split, cette tradition du milieu indé où deux groupes partagent un album, chacun occupant par exemple un côté d’une cassette. On a donc un EP, 6 musiques par le groupe de rock des Superweaks, illustrées sous forme de jeux par la Team Lazerbeam (qui se qualifie d’ailleurs de « game band », un groupe de jeu). On y joue un blob adolescent qui se prépare pour sa soirée à un concert des Superweaks. Après s’être modelé•e pour prendre forme humaine, iel va récolter de l’argent par des petits boulots variés, afin de s’offrir de quoi resplendir au concert et peut-être même avoir de quoi s’y acheter un t-shirt de son groupe favori. L’histoire se déroule ainsi grâce à quelques mini-jeux sur fond musical.</p>
+
+<p>L’expérience a un look sympa, avec un style fanzine (une édition du jeu en contient un, justement). Les jeux fonctionnent plutôt bien avec la musique, les évènements étant synchronisés avec l’audio. On a l’impression d’être dans un clip interactif, et le terme est peut-être plus adapté, certains mini-jeux (appelés « piste » ici, c’est avant tout de la musique) étant plus proches de l’histoire interactive ou du diorama que du jeu pur et dur. Les jeux sont divertissants, la musique rock et le style BD amateur des visuels renvoient à une époque plus simple, et les touches d’humour finissent de transformer le tout en une expérience joyeuse.</p>
+
+<p>Malheureusement, l’expérience n’est pas parfaite. Tout le monde ne peut pas s’accorder quand il faut décider quelle est la meilleure chanson de l’EP, mais la qualité des mini-jeux est clairement inégale. Déjà car, comme mentionné plus haut, certains n’en sont pas vraiment. Le premier, par exemple, raconte le début de l’histoire. On y choisit des dialogues, habille notre blob… Pas de jeu à proprement parler. Mais il serait hypocrite de critiquer ce choix, n’ayant personnellement travaillé presque que sur des jeux narratifs. Et de toute façon ça fonctionne très bien.<br>
+Non, le problème vient des niveaux décevants où l’on ne fait qu’avancer dans une direction. Cela peut-être intéressant, mais ça ne l’est pas forcément ici, et ça semble un peu mensonger pour ceux qui ont payé pour s’offrir l’expérience. Quand le jeu promet 6 mini-jeux, je m’imagine autre chose que passer 2 minutes à appuyer sur la touche flèche droite de mon clavier afin de traverser une salle de concert.<br>
+Je suis certain que le projet a demandé beaucoup de travail, mais ces mini-jeux peu réfléchis, associés à plein de petits problèmes surprenants (ouvrir les achievements joue un bruit strident trop fort par rapport au reste des sons du jeu, une erreur de numérotation fait que deux niveaux sont nommés Pistes 3…) donnent l’impression d’être sur un projet bâclé n’ayant pas eu le soin et l’attention méritée.</p>
+
+<p>Il est pourtant clair que le jeu a été concocté avec amour, au point où il est sorti dans quatre éditions collectors. Celles-ci contiennent des ajouts plus ou moins dispensables : le zine mentionné plus tôt, un vinyle de l’EP, des t-shirts, ou encore une sauce piquante collector.<br>
+J’ai un problème avec les produits dérivés. Pourquoi travailler sur des objets inutiles qui ne seront que l’objet d’achats compulsifs ? Pourquoi proposer tous ces designs de t-shirt différents quand tant de vêtements sont déjà fabriqués tous les jours, que les dressings et les friperies débordent déjà ? Je comprends le plaisir qu’il y a à voir son jeu vidéo être interprété sous d’autres formes, se manifester dans le monde réel. Mais dans un monde aux ressources finies, où les questions d’économies devraient s’imposer depuis plusieurs décennies, pourquoi ne pas y réfléchir à deux fois ? Pourquoi un jeu dont une bonne partie de l’identité est héritée de contre-cultures se soumet ainsi à une logique capitaliste et consumériste ?</p>
+
+<p>Ce n’est finalement pas si surprenant venant d’un jeu où notre personnage va principalement gagner de l’argent dans un job qu’iel déteste, afin de le dépenser immédiatement dans une paire de bottes ou un autre gadget. Malheureusement, ce n’est pas récemment que les cultures alternatives punks et indés ont étés récupérées et corrompu par « la société », pour la qualifier grossièrement. C’est juste dommage de voir ce défaut s’ajouter aux autres problèmes d’une œuvre intéressante et originale, mais négligée.</p>
+    <a class="back" href="../index.shtml" title="Page d'accueil">lucas vially</a>
+  </main>
+
+  <!--#include virtual="../includes/footer.ssi" -->
+</body>
+
+</html>
