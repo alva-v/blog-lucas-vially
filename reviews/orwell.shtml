@@ -34,7 +34,7 @@
     <h1>Orwell</h1>
   </header>
   <main>
-    <img src="orwell-580w.png"
+    <img src="../media/orwell-580w.png"
       alt="Une capture d'écran d'Orwell. Une interface d'ordinateur avec un fichier de renseignements sur Cassandra Watergate. À droite un navigateur ouvert sur un des ses profils de réseau social.">
     <p>Il y a quelques années, j’ai commencé à lister les œuvres culturelles qui m’intéressaient. Dans un carnet, j’ai noté
       tous les films que je voulais voir, les livres que je prévoyais de lire, ou les jeux auxquels je souhaitais jouer.

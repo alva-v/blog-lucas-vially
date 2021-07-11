@@ -34,7 +34,7 @@
     <h1>Crossy Road (Logicom Le Posh 178)</h1>
   </header>
   <main>
-    <img src="crossy-road-580w.png"
+    <img src="../media/crossy-road-580w.png"
       alt="Une photo d'un téléphone mobile simple. Sur l'écran, un jeu montre une poule prête à traverser une route.">
     <!--Image de 580px de large-->
     <p>J’ai un téléphone mobile, mais ce n’est pas un smartphone. Un «dumb phone» a l’avantage d’être dépourvu de toutes
