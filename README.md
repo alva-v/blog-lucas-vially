@@ -1,6 +1,6 @@
 # blog-lucas-vially
-Un site web simple pour publier des articles.
+Lucas Vially's blog source code.
 
-**Languages utilisés** : HTML, CSS, SSI
+**Used Languages** : HTML, CSS, SSI
 
-En ligne à [lucas.cybergnose.cafe](https://lucas.cybergnose.cafe).
+Online at [lucas.cybergnose.cafe](https://lucas.cybergnose.cafe).
