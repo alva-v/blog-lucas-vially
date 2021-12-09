@@ -1,5 +1,5 @@
 # blog-lucas-vially
-Lucas Vially's blog source code.
+Lucas Vially's website.
 
 **Used Languages** : HTML, CSS, SSI
 
